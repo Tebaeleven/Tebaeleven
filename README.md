@@ -5,7 +5,7 @@
 # Skils
 ## Frontend
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 ### other
 [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
 
