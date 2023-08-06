@@ -11,6 +11,6 @@
 
 ## Backend
 ### Language
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,go,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,go,php)](https://skillicons.dev)
 ### other
 [![My Skills](https://skillicons.dev/icons?i=laravel,docker,supabase,appwrite,prisma)](https://skillicons.dev)
